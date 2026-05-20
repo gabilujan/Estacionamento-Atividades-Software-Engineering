@@ -17,7 +17,7 @@ Objetivo:
 Modelar um sistema capaz de auxiliar no controle de entrada e saída de veículos, organização de vagas e registro de pagamentos em um estacionamento.
 
 Integrantes
-Gabriela Lujan Alves Severo dos Santos
-Luigi Nascimento Santos
-Mariane Alves de Morais
+Gabriela Lujan Alves Severo dos Santos,
+Luigi Nascimento Santos,
+Mariane Alves de Morais e
 Nattalia Manga dos Santos
